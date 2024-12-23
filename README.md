@@ -16,6 +16,7 @@ DATASET LINK: https://archive.ics.uci.edu/ml/machine-learning-databases/00352/On
 <br>
 <br>
 LIBRARIES USED : pandas, numpy, scikit-learn, matplotlib, seaborn, os, datetime.
+<br>
 KEY TECHNIQUES: Data cleaning, RFM analysis, clustering, dynamic pricing, data standardization, and visualization
 <br>
 <br>
